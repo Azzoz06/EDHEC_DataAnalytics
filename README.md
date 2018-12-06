@@ -45,7 +45,7 @@ Your group will be evaluated based on your capabilities of:
 
 You should draw conclusions on the best marketing actions to perform while highlighting the informed decisions that you recommend using analytics. As the marketing consultant, you are in charge of assembling your findings in a shareable report-style document that anyone new to the use case should understand.
 
-**Output format:** Please prepare your report in a pdf format. You need to add your output of your analysis to the appendix. Your report should be in between `**### words**` long, and include figures and references, excluding the appendix.  
+**Output format:** Please prepare your report in a pdf format. You need to add your output of your analysis to the appendix. Your report should be in between approximately `3500 words` long, and include figures and references, excluding the appendix.  
 
 **Tools:** you’re free to use the tools we have presented (SPSS Statistics, IBM Modeler, Watson Analytics)
 Considerations: you will be evaluated on your analytical approach to solve the business problem.
@@ -83,3 +83,5 @@ All presentation material is posted [here](./PDF).
 
 ## Hands-on-Labs
 Hands-on-Lab instructions are available [here](./HOL_Overview.md)
+
+##
