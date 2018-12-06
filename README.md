@@ -43,6 +43,9 @@ Your group will be evaluated based on your capabilities of:
 +	Applying the methods used in class in his report.
 +	Getting valuable insights for the recommended actions to improve customer satisfaction in Nice.
 
+**The data needed for the evaluation is the AirBnb.csv file available in the /data forlder of this repository**
+[Link to the data](/data)
+
 You should draw conclusions on the best marketing actions to perform while highlighting the informed decisions that you recommend using analytics. As the marketing consultant, you are in charge of assembling your findings in a shareable report-style document that anyone new to the use case should understand.
 
 **Output format:** Please prepare your report in a pdf format. You need to add your output of your analysis to the appendix. Your report should be in between approximately `3500 words` long, and include figures and references, excluding the appendix.  
